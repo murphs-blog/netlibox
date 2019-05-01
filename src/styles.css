@@ -1,11 +1,11 @@
 /* Pay no attention to whether this is a "best practice" for writing styles
    this is purely for the purpose of a simple demo. */
 html {
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 body {
   font-family: 'Merriweather', serif;
-  line-height: 1.5;
+  line-height: 1.5em;
   max-width: 35rem;
   width: 90%;
   margin: 0 auto;
